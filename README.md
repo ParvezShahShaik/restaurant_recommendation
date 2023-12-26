@@ -52,7 +52,7 @@ Calculate the difference in number of votes for the restaurants that deliver and
 
  
 
-## Project Task: Week 2
+## Project Task: 2
 
 ### Performing EDA:
 
